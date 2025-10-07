@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sonar Rock vs Mine</title>
+</head>
+<body style="text-align:center;">
+  <h2>Upload your sonar data (.csv)</h2>
+  <form action="/predict" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" accept=".csv" required>
+    <input type="submit" value="Predict">
+  </form>
+
+  <footer style="margin-top:40px;">
+    Made with ❤️ by Aditya Chauhan
+  </footer>
+</body>
+</html>
