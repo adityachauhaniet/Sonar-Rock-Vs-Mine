@@ -17,4 +17,3 @@ NumPy, Pandas
 scikit-learn
 Google Colab
 
-##THe RENDER DEPLOYED LINK:https://sonar-rock-vs-mine-addy.onrender.com
